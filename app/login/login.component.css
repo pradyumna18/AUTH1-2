@@ -1,0 +1,26 @@
+    mat-card {
+        width: 30%;
+        position: relative;
+        left: 30%;
+        top: 100px;
+        background-color: aqua;
+    }
+
+    h1 {
+        color: black;
+    }
+
+    .example-form {
+        min-width: 150px;
+        max-width: 500px;
+        width: 70%;
+    }
+
+    .example-full-width {
+        width: 140%;
+    }
+
+
+    .btn a {
+        text-decoration: none;
+    }

@@ -1,0 +1,20 @@
+.navlist{
+    display: flex;
+
+}
+.navlist a{
+    color:#fff;
+    font-size: 19px;
+    font-weight: 600;
+    margin: 0 30px;
+    text-decoration: none;
+    position: relative;
+    left:950px;
+    top:5px;
+}
+.navlist li{
+    list-style: none;
+}
+.navlist a:hover{
+    color: #000000;
+}

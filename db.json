@@ -1,0 +1,50 @@
+{
+  "user": [
+    {
+      "id": "pradyumna",
+      "name": "Pradyumna Deshpande",
+      "pas": "prad18",
+      "email": "prad25@gmail.com",
+      "gen": "ml",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "Tejuu",
+      "name": "Teju ",
+      "pas": "teju28",
+      "email": "teju28@gmail.com",
+      "gen": "female",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": "mahi7",
+      "name": "MS Dhoni",
+      "pas": "mahi7",
+      "email": "mahi7@gmail.com",
+      "gen": "ml",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": "Smith",
+      "name": "Steave Smith",
+      "pas": "smith18",
+      "email": "smith18@gmail.com",
+      "gen": "ml",
+      "role": "",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "code": "Staff",
+      "name": "Staff"
+    },
+    {
+      "code": "quality",
+      "name": "Quality"
+    }
+  ]
+}
